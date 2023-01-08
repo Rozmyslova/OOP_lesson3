@@ -1,1 +1,3 @@
-# OOP_lesson3
+# OOP_lesson4
+
+Реализован лабиринт
